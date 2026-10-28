@@ -1,4 +1,4 @@
-# 📺 Zamax TV Home
+# 📺 Zmax TV Home
 
 A customized, ad-free, high-performance **Android TV Launcher** designed for TCL and Android 9+ Smart TVs. Features real-time multi-timezone world clocks, dynamic currency exchange rates via Google Finance, integrated Google Calendar sync, and full D-pad remote navigation.
 
@@ -14,7 +14,7 @@ A customized, ad-free, high-performance **Android TV Launcher** designed for TCL
   - 🌤️ **Bangalore**: Live weather, temperature, and dynamic condition metrics.
 - **📅 Google Calendar Widget**:
   - Automatically queries the Android system calendar provider (`CalendarContract.Instances`).
-  - Seamlessly syncs events from the TV's logged-in Google Play accounts (`hassan2zam@gmail.com`).
+  - Seamlessly syncs events from the TV's logged-in Google Play accounts.
   - Displays dynamic mini month grid with today highlighted and upcoming agenda.
 - **TV Remote Optimized**:
   - 100% spatial D-pad navigation (Up, Down, Left, Right, OK, Back).
